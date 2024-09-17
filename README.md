@@ -1,5 +1,8 @@
 # 🛠️ Mini-libc Project
 
+**Author**: Alexandru-Andrei Ionita    
+**Year**: 2022-2023 
+
 ## 🚀 Objectives
 - Gain insight into the **C standard library** and its core functionalities.
 - Familiarize yourself with the **syscall interface** on Linux.
